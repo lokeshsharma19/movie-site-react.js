@@ -1,5 +1,7 @@
 # [🍿 Amdb - Get Movie Info(React + Vite)](https://enchanting-custard-eeb93b.netlify.app/)
 
+## 🚀 [Live Demo](https://enchanting-custard-eeb93b.netlify.app/)
+
 Welcome to the Amdb - Movie Search React App! This project allows users to search for movies and view detailed information about them.
 
 ## Features
