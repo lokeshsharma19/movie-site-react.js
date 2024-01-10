@@ -1,4 +1,4 @@
-# [🍿 Amdb - Get Movie Info(React + Vite)](https://enchanting-custard-eeb93b.netlify.app/)
+# [🍿 AMDb - Get Movie Info(React + Vite)](https://enchanting-custard-eeb93b.netlify.app/)
 
 ## 🚀 [Live Demo](https://enchanting-custard-eeb93b.netlify.app/)
 
