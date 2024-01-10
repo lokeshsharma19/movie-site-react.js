@@ -6,7 +6,7 @@ import styles from "./SingleMovieDetail.module.css";
 
 export const loader = async ({ params }) => {
   const imdbId = params.imdbId;
-  const endpoint = `http://www.omdbapi.com/?apikey=${apiKey}&i=${imdbId}&plot=full`;
+  const endpoint = `https://www.omdbapi.com/?apikey=${apiKey}&i=${imdbId}&plot=full`;
   try {
     const response = await axios.get(endpoint);
     return { movie: response.data, isError: false, error: "" };
