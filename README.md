@@ -1,4 +1,4 @@
-[https://enchanting-custard-eeb93b.netlify.app/](# Amdb - Get Movie Info(React + Vite))
+[# Amdb - Get Movie Info(React + Vite)](https://enchanting-custard-eeb93b.netlify.app/)
 
 Welcome to the Amdb - Movie Search React App! This project allows users to search for movies and view detailed information about them.
 
@@ -9,3 +9,5 @@ Welcome to the Amdb - Movie Search React App! This project allows users to searc
 - **React Router DOM**: Utilizes React Router for navigation and maintaining URL state.
 - **Custom Hooks**: Various custom hooks for managing state, side effects, and data fetching.
 
+<img width="1411" alt="Screenshot 2024-01-10 at 5 58 14 PM" src="https://github.com/lokeshsharma19/movie-site-react.js/assets/138589391/44edeb00-3aea-484a-9e9b-c6e36fc01223">
+<img width="1401" alt="Screenshot 2024-01-10 at 5 58 25 PM" src="https://github.com/lokeshsharma19/movie-site-react.js/assets/138589391/7fd95acb-eb6b-4f6b-b119-ecd072961877">
